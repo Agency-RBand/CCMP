@@ -9,5 +9,22 @@
   </head>
   <body>
     <div id="app"></div>
+  <script>
+    (function waitForConsent(cb) {
+      if (window.CookieConsentInstance && typeof window.CookieConsentInstance.ready === 'function') {
+        cb(window.CookieConsentInstance);
+      } else {
+        setTimeout(() => waitForConsent(cb), 10);
+      }
+    })(CookieConsentInstance => {
+      CookieConsentInstance.ready(consent => {
+        consent.init({
+          cookiePolicyUrl: 'https://imperia-br.ru/index.php?route=sendform/sendform/getPopup&template=privacy',
+          cookiePolicyTarget: '_blank',
+        });
+      });
+    });
+
+  </script>
   </body>
 </html>
