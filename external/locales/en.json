@@ -3,9 +3,9 @@
   "description": "This website uses cookies to improve your browsing experience, display content, and analyze traffic. By clicking \"Accept\", you consent to the use of cookies. By using the site, you agree to the processing of your personal data, including through web analytics services.",
   "shortDescription": "Some site features may become unavailable if you decline.",
   "privacyPolicy": "Privacy Policy",
-  "tab1": "Consent",
-  "tab2": "Blocked Cookies",
-  "tab3": "About Cookies",
+  "tabConsent": "Consent",
+  "tabDeleted": "Blocked Cookies",
+  "tabAbout": "About Cookies",
   "buttonDeny": "Decline",
   "buttonApply": "Accept"
 }
