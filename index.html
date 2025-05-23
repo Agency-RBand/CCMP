@@ -9,22 +9,46 @@
   </head>
   <body>
     <div id="app"></div>
-  <script>
-    (function waitForConsent(cb) {
-      if (window.CookieConsentInstance && typeof window.CookieConsentInstance.ready === 'function') {
-        cb(window.CookieConsentInstance);
-      } else {
-        setTimeout(() => waitForConsent(cb), 10);
-      }
-    })(CookieConsentInstance => {
-      CookieConsentInstance.ready(consent => {
-        consent.init({
-          cookiePolicyUrl: 'https://imperia-br.ru/index.php?route=sendform/sendform/getPopup&template=privacy',
-          cookiePolicyTarget: '_blank',
-        });
-      });
-    });
+<!--    <div class="ccmp-consent">-->
+<!--      <div class="ccmp-consent__container">-->
+<!--        <div class="ccmp-consent__tabs-box">-->
+<!--          <div class="ccmp-consent__tabs">-->
+<!--            <div class="ccmp-consent__tab-item ccmp-consent__tab-item_active">Согласие</div>-->
+<!--            <div class="ccmp-consent__tab-item">Удалённые cookie <span class="ccmp-consent__tab-item-counter">(20)</span></div>-->
+<!--            <div class="ccmp-consent__tab-item">О cookie</div>-->
+<!--            <a href="https://imperia-br.ru/index.php?route=sendform/sendform/getPopup&amp;template=privacy" target="_blank" class="ccmp-consent__tab-item ccmp-consent__tab-item_link">Политика конфиденциальности</a>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="ccmp-consent__body">-->
+<!--          <div class="ccmp-consent__content">-->
+<!--            <dev class="ccmp-consent__text">-->
+<!--              <h6 class="ccmp-consent__title">Мы ценим вашу конфиденциальность</h6>-->
+<!--              <p class="ccmp-consent__description">Cайт использует файлы Cookie для улучшения качества вашего просмотра, показа контента и анализа трафика. Нажимая "Принять", вы даёте согласие на использование файлов cookie. Используя сайт, вы предоставляете согласие на обработку ваших персональных данных в том числе с помощью сервисов веб-аналитики.</p>-->
+<!--            </dev>-->
+<!--          </div>-->
+<!--          <div class="ccmp-consent__button-box">-->
+<!--            <button class="ccmp-consent__button ccmp-consent__button_apply" type="button">Принять</button>-->
+<!--            <button class="ccmp-consent__button ccmp-consent__button_deny" type="button">Отклонить</button>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  <script>-->
+<!--    (function waitForConsent(cb) {-->
+<!--      if (window.CookieConsentInstance && typeof window.CookieConsentInstance.ready === 'function') {-->
+<!--        cb(window.CookieConsentInstance);-->
+<!--      } else {-->
+<!--        setTimeout(() => waitForConsent(cb), 10);-->
+<!--      }-->
+<!--    })(CookieConsentInstance => {-->
+<!--      CookieConsentInstance.ready(consent => {-->
+<!--        consent.init({-->
+<!--          cookiePolicyUrl: 'https://imperia-br.ru/index.php?route=sendform/sendform/getPopup&template=privacy',-->
+<!--          cookiePolicyTarget: '_blank',-->
+<!--        });-->
+<!--      });-->
+<!--    });-->
 
-  </script>
+<!--  </script>-->
   </body>
 </html>
