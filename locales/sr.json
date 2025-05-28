@@ -12,10 +12,6 @@
     "description": "Kolačić je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki kolačići su neophodni za ispravno funkcionisanje sajta."
   },
   "cookiesTypes": {
-    "coockiesBlocked": {
-      "title": "Blokirani kolačići",
-      "description": "Kolačići koji su privremeno onemogućeni i neće biti aktivirani dok korisnik ne da izričitu saglasnost za njihovu upotrebu."
-    },
     "coockiesNecessary": {
       "title": "Obavezni",
       "description": "Ovi kolačići su neophodni za pravilno funkcionisanje sajta. Bez njih sajt ne može ispravno raditi. Obično se koriste za: navigaciju, pristup zaštićenim zonama, pamćenje sadržaja korpe i slično."
@@ -43,6 +39,10 @@
     "coockiesPerformance": {
       "title": "Performantni",
       "description": "Kolačići performansi se koriste za razumevanje i analizu ključnih pokazatelja učinka i kvaliteta sajta, kako bi se obezbedilo bolje korisničko iskustvo."
+    },
+    "coockiesBlocked": {
+      "title": "Blokirani kolačići",
+      "description": "Kolačići koji su privremeno onemogućeni i neće biti aktivirani dok korisnik ne da izričitu saglasnost za njihovu upotrebu."
     }
   }
 }
