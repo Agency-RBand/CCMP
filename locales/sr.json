@@ -17,7 +17,7 @@
       "description": "Ovi kolačići su neophodni za pravilno funkcionisanje sajta. Bez njih sajt ne može ispravno raditi. Obično se koriste za: navigaciju, pristup zaštićenim zonama, pamćenje sadržaja korpe i slično."
     },
     "coockiesFunctional": {
-      "title": "Obavezni",
+      "title": "Funkcionalni",
       "description": "Omogućavaju sajtu da zapamti korisničke izbore, kao što su ime, jezik, region, kako bi personalizovao interfejs. Nisu obavezni, ali poboljšavaju korisničko iskustvo."
     },
     "coockiesAnalytics": {
