@@ -1,20 +1,20 @@
 {
   "title": "Cenimo vašu privatnost",
-  "description": "Sajt koristi kolačiće za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu kolačića. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku.",
+  "description": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku.",
   "shortDescription": "U slučaju odbijanja neke funkcije sajta mogu biti nedostupne.",
   "privacyPolicy": "Politika privatnosti",
   "tabConsent": "Saglasnost",
-  "tabDeleted": "Blokirani kolačići",
-  "tabAbout": "O kolačićima",
+  "tabDeleted": "Blokirani cookie",
+  "tabAbout": "O cookie",
   "buttonDeny": "Odbij",
   "buttonApply": "Prihvati",
   "aboutCookies": {
-    "description": "Kolačić je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki kolačići su neophodni za ispravno funkcionisanje sajta."
+    "description": "Cookie je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki cookie su neophodni za ispravno funkcionisanje sajta."
   },
   "cookiesTypes": {
     "coockiesNecessary": {
       "title": "Obavezni",
-      "description": "Ovi kolačići su neophodni za pravilno funkcionisanje sajta. Bez njih sajt ne može ispravno raditi. Obično se koriste za: navigaciju, pristup zaštićenim zonama, pamćenje sadržaja korpe i slično."
+      "description": "Ovi cookie su neophodni za pravilno funkcionisanje sajta. Bez njih sajt ne može ispravno raditi. Obično se koriste za: navigaciju, pristup zaštićenim zonama, pamćenje sadržaja korpe i slično."
     },
     "coockiesFunctional": {
       "title": "Funkcionalni",
@@ -22,7 +22,7 @@
     },
     "coockiesAnalytics": {
       "title": "Analitički",
-      "description": "Analitički kolačići se koriste da bi se razumeo način na koji posetioci koriste sajt. Pomažu u prikupljanju informacija kao što su broj posetilaca, stopa odbijanja, izvor saobraćaja. Koriste se za poboljšanje sajta."
+      "description": "Analitički cookie se koriste da bi se razumeo način na koji posetioci koriste sajt. Pomažu u prikupljanju informacija kao što su broj posetilaca, stopa odbijanja, izvor saobraćaja. Koriste se za poboljšanje sajta."
     },
     "coockiesMarketing": {
       "title": "Marketinški",
@@ -30,19 +30,19 @@
     },
     "coockiesSessions": {
       "title": "Sesioni",
-      "description": "Privremeni kolačići koji se brišu nakon zatvaranja pregledača. Na primer, koriste se za čuvanje podataka tokom jedne korisničke sesije."
+      "description": "Privremeni cookie koji se brišu nakon zatvaranja pregledača. Na primer, koriste se za čuvanje podataka tokom jedne korisničke sesije."
     },
     "coockiesThirdParty": {
-      "title": "Kolačići trećih strana",
-      "description": "Kolačići koje ne postavlja sam sajt, već integrisani servisi trećih strana — na primer, vidžeti društvenih mreža, video platforme, reklamne mreže."
+      "title": "Cookie trećih strana",
+      "description": "Cookie koje ne postavlja sam sajt, već integrisani servisi trećih strana — na primer, vidžeti društvenih mreža, video platforme, reklamne mreže."
     },
     "coockiesPerformance": {
       "title": "Performantni",
-      "description": "Kolačići performansi se koriste za razumevanje i analizu ključnih pokazatelja učinka i kvaliteta sajta, kako bi se obezbedilo bolje korisničko iskustvo."
+      "description": "Cookie performansi se koriste za razumevanje i analizu ključnih pokazatelja učinka i kvaliteta sajta, kako bi se obezbedilo bolje korisničko iskustvo."
     },
     "coockiesBlocked": {
-      "title": "Blokirani kolačići",
-      "description": "Kolačići koji su privremeno onemogućeni i neće biti aktivirani dok korisnik ne da izričitu saglasnost za njihovu upotrebu."
+      "title": "Blokirani cookie",
+      "description": "Cookie koji su privremeno onemogućeni i neće biti aktivirani dok korisnik ne da izričitu saglasnost za njihovu upotrebu."
     }
   }
 }
