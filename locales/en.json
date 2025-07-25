@@ -8,6 +8,8 @@
   "tabAbout": "About Cookies",
   "buttonDeny": "Decline",
   "buttonApply": "Accept",
+  "developerLink": "https://rband.pro/en",
+  "developerLinkText": "RBand Development",
   "aboutCookies": {
     "description": "Cookies are small text fragments sent from a website to your browser. They help users navigate efficiently and perform certain functions. Some cookies are necessary for the proper functioning of the website."
   },

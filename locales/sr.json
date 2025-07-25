@@ -8,6 +8,8 @@
   "tabAbout": "O cookie",
   "buttonDeny": "Odbij",
   "buttonApply": "Prihvati",
+  "developerLink": "https://rband.pro/sr",
+  "developerLinkText": "RBand razvoj",
   "aboutCookies": {
     "description": "Cookie je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki cookie su neophodni za ispravno funkcionisanje sajta."
   },
