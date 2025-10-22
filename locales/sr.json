@@ -1,6 +1,6 @@
 {
   "title": "Cenimo vašu privatnost",
-  "description": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku.",
+  "description": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku: <a href=\"https://yandex.ru/legal/confidential/en/\" target=\"_blank\">Yandex</a>, <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\">Google</a>.",
   "shortDescription": "U slučaju odbijanja neke funkcije sajta mogu biti nedostupne.",
   "privacyPolicy": "Politika privatnosti",
   "tabConsent": "Saglasnost",
