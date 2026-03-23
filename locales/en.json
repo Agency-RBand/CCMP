@@ -1,6 +1,6 @@
 {
   "title": "We value your privacy",
-  "description": "This website uses cookies to enhance your browsing experience, display content, and analyze traffic. By clicking \"Accept,\" you consent to the use of cookies. By using the site, you agree to the processing of your personal data, including through web analytics services: <a href=\"https://yandex.ru/legal/confidential/en/\" target=\"_blank\">Yandex</a>, <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\">Google</a>.",
+  "description": "This website uses cookies to enhance your browsing experience, display content, and analyze traffic. By clicking \"Accept,\" you consent to the use of cookies.",
   "shortDescription": "Some features may become unavailable if you decline.",
   "privacyPolicy": "Privacy Policy",
   "tabConsent": "Consent",
@@ -11,7 +11,8 @@
   "developerLink": "https://rband.pro/en",
   "developerLinkText": "Powered by RBand",
   "aboutCookies": {
-    "description": "Cookies are small text fragments sent from a website to your browser. They help users navigate efficiently and perform certain functions. Some cookies are necessary for the proper functioning of the website."
+    "description1": "This website uses cookies to enhance your browsing experience, display content, and analyze traffic. By clicking \"Accept,\" you consent to the use of cookies. By using the site, you agree to the processing of your personal data, including through web analytics services: <a href=\"https://yandex.ru/legal/confidential/en/\" target=\"_blank\">Yandex</a>, <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\">Google</a>.",
+    "description2": "Cookies are small text fragments sent from a website to your browser. They help users navigate efficiently and perform certain functions. Some cookies are necessary for the proper functioning of the website."
   },
   "cookiesTypes": {
     "coockiesNecessary": {

@@ -1,6 +1,6 @@
 {
   "title": "Cenimo vašu privatnost",
-  "description": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku: <a href=\"https://yandex.ru/legal/confidential/en/\" target=\"_blank\">Yandex</a>, <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\">Google</a>.",
+  "description": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie.",
   "shortDescription": "U slučaju odbijanja neke funkcije sajta mogu biti nedostupne.",
   "privacyPolicy": "Politika privatnosti",
   "tabConsent": "Saglasnost",
@@ -11,7 +11,8 @@
   "developerLink": "https://rband.pro/sr",
   "developerLinkText": "RBand razvoj",
   "aboutCookies": {
-    "description": "Cookie je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki cookie su neophodni za ispravno funkcionisanje sajta."
+    "description1": "Sajt koristi cookie za poboljšanje kvaliteta vašeg pregleda, prikaz sadržaja i analizu saobraćaja. Klikom na \"Prihvati\", dajete saglasnost za upotrebu cookie. Korišćenjem sajta dajete saglasnost za obradu vaših ličnih podataka, uključujući putem servisa za veb-analitiku: <a href=\"https://yandex.ru/legal/confidential/en/\" target=\"_blank\">Yandex</a>, <a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\">Google</a>.",
+    "description2": "Cookie je mali tekstualni fajl koji se šalje iz posjećenog sajta u vaš pregledač. Oni pomažu korisnicima da se efikasno kreću i izvršavaju određene funkcije. Neki cookie su neophodni za ispravno funkcionisanje sajta."
   },
   "cookiesTypes": {
     "coockiesNecessary": {
